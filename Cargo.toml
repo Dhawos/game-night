@@ -15,6 +15,3 @@ deadpool-postgres = "0.10.5"
 config = "0.13.3"
 env_logger = "0.10.0"
 log = "0.4.19"
-
-[dev-dependencies]
-cargo-husky = { version = "1.5.0",  features = ["run-cargo-clippy"] }
